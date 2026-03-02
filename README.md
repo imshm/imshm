@@ -1,6 +1,6 @@
 # Hey, I'm Shyam
 
-**Full-Stack Developer | 7+ years | 20+ published apps on App Store & Play Store**
+**Full-Stack Developer | 9+ years | 20+ published apps on App Store & Play Store**
 
 I build secure, production-grade mobile and web apps end-to-end — from backend APIs and databases to mobile clients, admin dashboards, and landing pages. Security-first mindset, always.
 
@@ -13,7 +13,7 @@ I build secure, production-grade mobile and web apps end-to-end — from backend
 | **SecureVault** | Encrypted password manager with zero-knowledge architecture | React Native, Firebase Cloud Functions, E2E Encryption | [securevault.imshyam.in](https://securevault.imshyam.in) |
 | **ClamLaundrywala** | Full-stack laundry management platform (mobile + admin + API) | React Native, Next.js, Node.js/Express, MongoDB | [clamlaundrywala.imshyam.in](https://clamlaundrywala.imshyam.in) |
 | **Portfolio** | Interactive developer portfolio | Next.js, TypeScript, Tailwind CSS | [portfolio.imshyam.in](https://portfolio.imshyam.in) |
-| **Text Insights Counter** | Real-time text analysis tool with visual feedback | JavaScript, CSS, HTML | [GitHub](https://github.com/imshm/Text-Insights-Counter) |
+| **Text Insights Counter** | Real-time text analysis tool with visual feedback | JavaScript, CSS, HTML | [Chrome Web Store](https://chromewebstore.google.com/detail/dbpnejmepldfddchgegioimjphpiipho) |
 
 ### Published Apps (Professional)
 
