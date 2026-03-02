@@ -13,7 +13,7 @@ I build secure, production-grade mobile and web apps end-to-end — from backend
 | **SecureVault** | Encrypted password manager with zero-knowledge architecture | React Native, Firebase Cloud Functions, E2E Encryption | [securevault.imshyam.in](https://securevault.imshyam.in) |
 | **ClamLaundrywala** | Full-stack laundry management platform (mobile + admin + API) | React Native, Next.js, Node.js/Express, MongoDB | [clamlaundrywala.imshyam.in](https://clamlaundrywala.imshyam.in) |
 | **Portfolio** | Interactive developer portfolio | Next.js, TypeScript, Tailwind CSS | [portfolio.imshyam.in](https://portfolio.imshyam.in) |
-| **Text Insights Counter** | Real-time text analysis tool with visual feedback | JavaScript, CSS, HTML | [Chrome Web Store](https://chromewebstore.google.com/detail/dbpnejmepldfddchgegioimjphpiipho) |
+| **Text Insights Counter** | Chrome extension for real-time text analysis — chars, words, readability & more | JavaScript, Chrome Extension | [textinsights.imshyam.in](https://textinsights.imshyam.in) |
 
 ### Published Apps (Professional)
 
